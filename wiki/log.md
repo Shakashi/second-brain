@@ -44,3 +44,9 @@
 - Added `wiki/daily/` for daily dream notes.
 - Updated `AGENTS.md`, `wiki/SCHEMA.md`, and `wiki/index.md`.
 
+## [2026-05-21] create | Daily dream — Claude Code additions
+- Created `wiki/daily/2026-05-21.md` with `## Claude Code additions` section (Morpheus section laissée libre pour son cron 00:30).
+- Synthèse : seeding Mac done, réconciliation 2-machines done, 3 manquements protocole identifiés (no pull --rebase, surconsommation tokens, no lint pre-push) corrigés à partir de cette session.
+- Lint OK (19 pages).
+- Updated `wiki/index.md` (section Daily Notes).
+

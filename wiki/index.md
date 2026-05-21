@@ -59,6 +59,8 @@ Le vault est alimenté depuis deux machines :
 
 ## Daily Notes
 
+- [[2026-05-21|2026-05-21]] — Seeding initial Mac/Linux ; protocol AI_COLLABORATION publié ; réconciliation deux machines.
+
 ## Comparisons
 
 ## Queries
