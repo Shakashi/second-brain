@@ -1,7 +1,11 @@
 # Wiki Index
 
 > Catalogue de toutes les pages wiki. Lire ceci en premier pour trouver les pages pertinentes.
-> Last updated: 2026-05-21 | Total pages: 9
+> Last updated: 2026-05-21 | Total pages: 18
+
+Le vault est alimenté depuis deux machines :
+- **Mac (`/Users/shakadaily/`)** via Claude Code — hub : [[shaka|Shaka]]
+- **Linux (`/home/shaka/`)** via Morpheus — hub : [[user-profile|User Profile]]
 
 ## Meta
 
@@ -12,16 +16,44 @@
 
 ## Entities
 
-- [[axianews-online|AxiaNews Online]] — Projet de plateforme d'agrégation et publication de news factuelles, orchestré par Marcus.
-- [[user-profile|User Profile]] — Synthèse factuelle des préférences, axes de travail et agents connus de l'utilisateur.
+### Personne
+
+- [[shaka|Shaka]] — Hub utilisateur côté Mac. Identité opérationnelle, projets actifs, conventions de travail.
+- [[user-profile|User Profile]] — Vue parallèle côté Morpheus/Linux. Pointe vers Shaka pour le hub complet.
+
+### Projets — pile Mac / Paperclip
+
+- [[natharia|Natharia]] — Newsletter + affiliation AI marketing, opérée par 4 agents Paperclip autonomes.
+- [[clawnilab|Clawnilab]] — Service design solo via Fiverr, agent CEO unique + email-handoff board.
+- [[pm-trade|pm-trade]] — Bot trading Polymarket Python, ~$272 portfolio, routine matin 08:00 UTC.
+- [[whalescope-ai|WhaleScope AI]] — Projet crypto whale alerts avec analyse IA — spec écrite, pas construit.
+- [[training-ai-app|training-ai-app]] — App coaching fitness IA (early stage, peu documenté).
+
+### Projets — pile Linux / Morpheus
+
+- [[axianews-online|AxiaNews Online]] — Plateforme agrégation de news factuelles, CEO = agent Marcus.
+
+### Infrastructure & outils
+
+- [[paperclip|Paperclip]] — Plateforme orchestration agents (= Claude Cowork). Companies, routines, productivity reviews.
+- [[composio|Composio]] — Toolkit intégrations (Twitter, IG, Supabase, GitHub, Vercel, Canva).
 
 ## Concepts
 
-- [[freelance-strategy|Freelance Strategy]] — Positionnement freelance full-stack/SaaS et critères de sélection des missions.
-- [[local-ai-and-tools|Local AI and Tools]] — Repères sur la machine locale, Ollama et outils disponibles.
-- [[morpheus-agent-architecture|Morpheus Agent Architecture]] — Organisation multi-agents isolée : Morpheus, Apex, Marcus.
-- [[personal-finance-stack|Personal Finance Stack]] — Stack Firefly III/Kubera et règles de suivi crypto.
-- [[trading-and-hyperliquid|Trading and HyperLiquid]] — Infrastructure HyperLiquid et rôle de l'agent Apex.
+### Méthode & philosophie
+
+- [[boil-the-ocean|Boil the Ocean]] — Philosophie de travail de Shaka. Standard "holy shit, that's done".
+
+### Architecture agents
+
+- [[morpheus-agent-architecture|Morpheus Agent Architecture]] — Morpheus orchestrateur + Apex (trading) + Marcus (news), isolation complète.
+
+### Domaines
+
+- [[freelance-strategy|Freelance Strategy]] — Positionnement full-stack/SaaS, critères de mission, Codeur.com Pro.
+- [[trading-and-hyperliquid|Trading and HyperLiquid]] — Infra HyperLiquid via agent Apex (complémentaire de [[pm-trade]]).
+- [[personal-finance-stack|Personal Finance Stack]] — Firefly III + bridge Kubera + suivi crypto.
+- [[local-ai-and-tools|Local AI and Tools]] — Machine Linux, Ollama, outils pentest.
 
 ## Comparisons
 

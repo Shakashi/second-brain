@@ -40,3 +40,12 @@ Cette page synthétise ce que Morpheus sait déjà de l'utilisateur à partir de
 - Préférences précises sur confidentialité du vault.
 - Domaines personnels à inclure ou exclure explicitement.
 - Taxonomie finale du second brain.
+
+## Voir aussi (vue Mac `/Users/shakadaily/`)
+
+Vue parallèle écrite depuis la machine macOS, complémentaire à celle-ci :
+
+- [[shaka|Shaka]] — hub utilisateur côté Mac (identité opérationnelle, projets Natharia/Clawnilab/pm-trade, conventions).
+- [[natharia|Natharia]] · [[clawnilab|Clawnilab]] · [[pm-trade|pm-trade]] · [[whalescope-ai|WhaleScope AI]].
+- [[paperclip|Paperclip]] (Cowork) · [[composio|Composio]].
+- [[boil-the-ocean|Boil the Ocean]].
