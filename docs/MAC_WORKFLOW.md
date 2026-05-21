@@ -110,14 +110,20 @@ Installation :
 3. Browse > chercher `Obsidian Git`.
 4. Install puis Enable.
 
-Réglages conseillés :
+Réglages conseillés, selon les noms visibles dans ta version du plugin :
 
-- Pull updates on startup: enabled.
-- Push on backup: enabled.
-- Auto backup interval: 10 à 30 minutes.
-- Commit message: `vault backup: {{date}}`.
-- Pull before push: enabled, si l'option existe.
-- Disable notifications: optionnel.
+- `Pull updates on startup` / `Pull on startup` / `Auto-pull on Obsidian startup` : enabled.
+- `Vault backup interval` / `Auto backup interval` : 10 à 30 minutes. Dans ce plugin, "backup" signifie commit + sync Git, pas une sauvegarde séparée.
+- `Commit message` : `vault backup: {{date}}` ou `vault backup: {{date}} {{time}}` si `{{time}}` est accepté.
+- `Push on backup` / `Push after backup` : enabled si l'option est visible. Certaines versions l'intègrent directement dans l'opération de backup/sync.
+- `Pull before push` / `Pull before backup` : enabled si l'option est visible.
+- `Disable notifications` : optionnel.
+
+Si tu ne vois pas exactement ces noms, le minimum viable est :
+
+1. activer le pull au démarrage ;
+2. définir un intervalle de backup automatique ;
+3. vérifier qu'une commande `Commit-and-sync` ou `Backup` pousse bien sur GitHub.
 
 Routine conseillée :
 
