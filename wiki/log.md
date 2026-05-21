@@ -50,3 +50,11 @@
 - Lint OK (19 pages).
 - Updated `wiki/index.md` (section Daily Notes).
 
+## [2026-05-21] create | Mac launchd cron pour dream Claude Code
+- Added `scripts/dream.sh` — orchestrateur shell qui pull --rebase, lance `claude -p` non-interactif avec prompt scoped, log dans `.logs/dream.log`.
+- Added `~/Library/LaunchAgents/com.shaka.second-brain.dream.plist` (hors repo, install local) — `StartCalendarInterval` à 01:30 local Mac, `RunAtLoad: false`.
+- Added `docs/CLAUDE_DREAM_CRON.md` documentant install, commandes utiles, troubleshooting.
+- Added `.logs/` à `.gitignore`.
+- Chargé via `launchctl bootstrap gui/$(id -u) <plist>`. Prochaine run : 2026-05-22 01:30 (sauf si Mac endormi).
+- Mac endormi à 01:30 → skip silencieux ; le dream du lendemain couvre les jours manqués en mode catch-up (prompt explicit).
+
