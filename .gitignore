@@ -1,0 +1,16 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Obsidian local workspace/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary inbox failures
+inbox/*.tmp
