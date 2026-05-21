@@ -99,12 +99,45 @@ git push
 4. Tu pull sur Mac.
 5. Tu lis le résultat dans Obsidian.
 
-## 6. Alternative avec plugin Obsidian Git
+## 6. Sync automatique recommandée avec Obsidian Git
 
-Tu peux installer le plugin communautaire `Obsidian Git` pour automatiser pull/commit/push depuis Obsidian. Réglages conseillés :
+Pour éviter les erreurs du type `cannot pull with rebase: You have unstaged changes`, installe le plugin communautaire `Obsidian Git` sur le Mac.
 
-- Auto pull on startup: enabled
-- Auto backup interval: 10-30 minutes
-- Commit message: `vault backup: {date}`
+Installation :
 
-Attention : éviter d'éditer les mêmes pages au même moment qu'un agent.
+1. Obsidian > Settings > Community plugins.
+2. Désactiver `Restricted mode` si nécessaire.
+3. Browse > chercher `Obsidian Git`.
+4. Install puis Enable.
+
+Réglages conseillés :
+
+- Pull updates on startup: enabled.
+- Push on backup: enabled.
+- Auto backup interval: 10 à 30 minutes.
+- Commit message: `vault backup: {{date}}`.
+- Pull before push: enabled, si l'option existe.
+- Disable notifications: optionnel.
+
+Routine conseillée :
+
+1. Ouvrir Obsidian.
+2. Laisser Obsidian Git faire le pull au démarrage.
+3. Travailler normalement.
+4. Laisser l'auto backup commit/push régulièrement.
+5. Avant de demander à Morpheus d'ingérer ou modifier le vault, vérifier que le plugin a bien poussé les derniers changements.
+
+Attention : éviter d'éditer les mêmes pages au même moment qu'un agent. Le plus sûr est de déposer tes documents dans `inbox/`, laisser Obsidian Git pousser, puis demander à Morpheus d'ingérer.
+
+Si Git reste bloqué à cause de fichiers locaux sans importance, vérifier d'abord :
+
+```bash
+git status --short
+```
+
+Si seuls des fichiers de workspace Obsidian apparaissent, ils peuvent être restaurés sans risque :
+
+```bash
+git restore .obsidian/workspace.json .obsidian/workspace-mobile.json 2>/dev/null || true
+git pull --rebase
+```
