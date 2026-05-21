@@ -64,6 +64,7 @@ Ajouter ici les nouveaux tags avant usage.
 - synthesis
 - contradiction
 - decision
+- daily
 
 ### Personal knowledge
 - personal

@@ -36,3 +36,11 @@
 - Ajouté section "Vue Morpheus" dans `shaka.md` avec liens vers les pages écrites par Morpheus.
 - Ajouté section "Voir aussi (vue Mac)" dans `user-profile.md` avec liens vers `shaka.md` et les projets Mac.
 - Réécrit `wiki/index.md` avec sections Mac / Linux explicites et compte total à 18 pages.
+## [2026-05-21] update | Multi-agent second-brain protocol and automation
+- Added `docs/AI_COLLABORATION_PROTOCOL.md`.
+- Added `docs/SECOND_BRAIN_AUTOMATION.md`.
+- Added `scripts/search_brain.py` for targeted lookup.
+- Added `scripts/lint_brain.py` for fast sanity checks.
+- Added `wiki/daily/` for daily dream notes.
+- Updated `AGENTS.md`, `wiki/SCHEMA.md`, and `wiki/index.md`.
+

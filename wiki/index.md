@@ -11,6 +11,8 @@ Le vault est alimenté depuis deux machines :
 
 - [[second-brain-overview|Second Brain Overview]] — Vue d'ensemble du vault, de sa structure et des workflows.
 - [[ingestion-workflow|Ingestion Workflow]] — Procédure pour déposer, préparer et intégrer des documents.
+- `docs/AI_COLLABORATION_PROTOCOL.md` — Protocole commun pour agents IA collaborant sur le vault.
+- `docs/SECOND_BRAIN_AUTOMATION.md` — Automatisations de sync, backup et dream quotidien.
 
 ## Source summaries
 
@@ -54,6 +56,8 @@ Le vault est alimenté depuis deux machines :
 - [[trading-and-hyperliquid|Trading and HyperLiquid]] — Infra HyperLiquid via agent Apex (complémentaire de [[pm-trade]]).
 - [[personal-finance-stack|Personal Finance Stack]] — Firefly III + bridge Kubera + suivi crypto.
 - [[local-ai-and-tools|Local AI and Tools]] — Machine Linux, Ollama, outils pentest.
+
+## Daily Notes
 
 ## Comparisons
 

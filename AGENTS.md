@@ -44,6 +44,18 @@ Avant toute modification :
 - Les tags utilisés doivent exister dans la taxonomie de `wiki/SCHEMA.md`.
 - Préférer des pages courtes et maintenables. Scinder au-delà d'environ 200 lignes.
 
+## Consultation ciblée du second-brain
+
+Pour toute tâche dépendant du contexte utilisateur/projets, ne charge pas tout le vault. Fais plutôt :
+
+1. `git pull --rebase` depuis la racine.
+2. Lire `wiki/index.md`.
+3. Chercher ciblé avec `python3 scripts/search_brain.py "query"`.
+4. Lire uniquement les pages pertinentes.
+5. Si tu modifies le vault, lancer `python3 scripts/lint_brain.py`, puis commit/push.
+
+Voir `docs/AI_COLLABORATION_PROTOCOL.md` pour le protocole complet multi-agents.
+
 ## Workflow d'ingestion d'un document dans `inbox/`
 
 1. Lancer `python3 scripts/ingest_inbox.py` depuis la racine du repo.
