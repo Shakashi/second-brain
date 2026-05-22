@@ -63,3 +63,8 @@
 - Created `wiki/daily/2026-05-22.md` from recent session summaries and `git log --since='24 hours ago' --stat`.
 - Synthèse : consolidation Second Brain, protocole multi-agents, setup dream Claude Code, crons Codeur.com/Apex observés sans nouvelle connaissance durable détaillée.
 - Updated `wiki/index.md` daily notes and page count.
+
+## [2026-05-23] create | Daily dream — Morpheus
+- Created `wiki/daily/2026-05-23.md` from recent session summaries and `git log --since='24 hours ago' --stat`.
+- Synthèse : signaux AxiaNews/OpenRouter, crons Codeur.com non destructifs, résolution durable du doublon Apex documentée prudemment.
+- Updated `wiki/index.md` daily notes and page count.

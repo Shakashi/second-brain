@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Catalogue de toutes les pages wiki. Lire ceci en premier pour trouver les pages pertinentes.
-> Last updated: 2026-05-22 | Total pages: 20
+> Last updated: 2026-05-23 | Total pages: 21
 
 Le vault est alimenté depuis deux machines :
 - **Mac (`/Users/shakadaily/`)** via Claude Code — hub : [[shaka|Shaka]]
@@ -59,6 +59,7 @@ Le vault est alimenté depuis deux machines :
 
 ## Daily Notes
 
+- [[2026-05-23|2026-05-23]] — Dream Morpheus : AxiaNews/OpenRouter observé, crons Codeur.com, résolution durable du doublon Apex.
 - [[2026-05-22|2026-05-22]] — Dream Morpheus : consolidation Second Brain, protocole multi-agents, crons Codeur/Apex observés.
 - [[2026-05-21|2026-05-21]] — Seeding initial Mac/Linux ; protocol AI_COLLABORATION publié ; réconciliation deux machines.
 
