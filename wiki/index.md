@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Catalogue de toutes les pages wiki. Lire ceci en premier pour trouver les pages pertinentes.
-> Last updated: 2026-05-25 | Total pages: 23
+> Last updated: 2026-05-26 | Total pages: 24
 
 Le vault est alimenté depuis deux machines :
 - **Mac (`/Users/shakadaily/`)** via Claude Code — hub : [[shaka|Shaka]]
@@ -59,6 +59,7 @@ Le vault est alimenté depuis deux machines :
 
 ## Daily Notes
 
+- [[2026-05-26|2026-05-26]] — Dream Morpheus : continuité freelance Codeur/Upwork, previews tronquées donc statut Upwork encore à confirmer, aucun nouveau fait durable AxiaNews/Apex.
 - [[2026-05-25|2026-05-25]] — Dream Morpheus : signaux freelance Codeur/Upwork, statut Upwork à confirmer, aucun nouveau fait durable AxiaNews/Apex.
 - [[2026-05-24|2026-05-24]] — Dream Morpheus : signaux prudents Codeur.com/AxiaNews, aucun nouveau fait durable fortement étayé.
 - [[2026-05-23|2026-05-23]] — Dream Morpheus : AxiaNews/OpenRouter observé, crons Codeur.com, résolution durable du doublon Apex.

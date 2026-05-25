@@ -78,3 +78,8 @@
 - Created `wiki/daily/2026-05-25.md` from recent session summaries and `git log --since='24 hours ago' --stat`.
 - Synthèse : activité freelance Codeur/Upwork, statut Upwork à confirmer, aucun nouveau fait durable AxiaNews/Apex fortement étayé.
 - Updated `wiki/index.md` daily notes and page count.
+
+## [2026-05-26] create | Daily dream — Morpheus
+- Created `wiki/daily/2026-05-26.md` from recent session summaries/previews and `git log --since='24 hours ago' --stat`.
+- Synthèse : continuité freelance Codeur/Upwork, statut Upwork encore à confirmer faute de résumé complet exploitable, aucun nouveau fait durable AxiaNews/Apex fortement étayé.
+- Updated `wiki/index.md` daily notes and page count.
