@@ -83,3 +83,9 @@
 - Created `wiki/daily/2026-05-26.md` from recent session summaries/previews and `git log --since='24 hours ago' --stat`.
 - Synthèse : continuité freelance Codeur/Upwork, statut Upwork encore à confirmer faute de résumé complet exploitable, aucun nouveau fait durable AxiaNews/Apex fortement étayé.
 - Updated `wiki/index.md` daily notes and page count.
+
+## [2026-05-27] create | Daily dream — Morpheus
+- Created `wiki/daily/2026-05-27.md` from recent session summaries and `git log --since='24 hours ago' --stat`.
+- Updated `wiki/concepts/freelance-strategy.md` with the durable Upwork API/OAuth direction and constraints.
+- Synthèse : Upwork doit passer par l’API officielle / GraphQL avec OAuth, pas scraping/login automation ; clés/OAuth/scan authentifié encore à confirmer ; aucun nouveau fait durable AxiaNews/Apex fortement étayé.
+- Updated `wiki/index.md` daily notes, page count and freelance description.

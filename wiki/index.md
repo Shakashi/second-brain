@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Catalogue de toutes les pages wiki. Lire ceci en premier pour trouver les pages pertinentes.
-> Last updated: 2026-05-26 | Total pages: 24
+> Last updated: 2026-05-27 | Total pages: 25
 
 Le vault est alimenté depuis deux machines :
 - **Mac (`/Users/shakadaily/`)** via Claude Code — hub : [[shaka|Shaka]]
@@ -52,13 +52,14 @@ Le vault est alimenté depuis deux machines :
 
 ### Domaines
 
-- [[freelance-strategy|Freelance Strategy]] — Positionnement full-stack/SaaS, critères de mission, Codeur.com Pro.
+- [[freelance-strategy|Freelance Strategy]] — Positionnement full-stack/SaaS, critères de mission, Codeur.com Pro et chantier Upwork API/OAuth.
 - [[trading-and-hyperliquid|Trading and HyperLiquid]] — Infra HyperLiquid via agent Apex (complémentaire de [[pm-trade]]).
 - [[personal-finance-stack|Personal Finance Stack]] — Firefly III + bridge Kubera + suivi crypto.
 - [[local-ai-and-tools|Local AI and Tools]] — Machine Linux, Ollama, outils pentest.
 
 ## Daily Notes
 
+- [[2026-05-27|2026-05-27]] — Dream Morpheus : consolidation Upwork API/OAuth comme extension freelance, crons freelance observés mais résultats tronqués, aucun nouveau fait durable AxiaNews/Apex.
 - [[2026-05-26|2026-05-26]] — Dream Morpheus : continuité freelance Codeur/Upwork, previews tronquées donc statut Upwork encore à confirmer, aucun nouveau fait durable AxiaNews/Apex.
 - [[2026-05-25|2026-05-25]] — Dream Morpheus : signaux freelance Codeur/Upwork, statut Upwork à confirmer, aucun nouveau fait durable AxiaNews/Apex.
 - [[2026-05-24|2026-05-24]] — Dream Morpheus : signaux prudents Codeur.com/AxiaNews, aucun nouveau fait durable fortement étayé.
