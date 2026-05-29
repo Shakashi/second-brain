@@ -89,3 +89,10 @@
 - Updated `wiki/concepts/freelance-strategy.md` with the durable Upwork API/OAuth direction and constraints.
 - Synthèse : Upwork doit passer par l’API officielle / GraphQL avec OAuth, pas scraping/login automation ; clés/OAuth/scan authentifié encore à confirmer ; aucun nouveau fait durable AxiaNews/Apex fortement étayé.
 - Updated `wiki/index.md` daily notes, page count and freelance description.
+
+## [2026-05-30] create | Daily dream — Morpheus
+- Created `wiki/daily/2026-05-30.md` from recent session summaries and `git log --since='24 hours ago' --stat`.
+- Created `wiki/concepts/linkedin-growth.md` for the durable LinkedIn/Zernio growth workflow.
+- Updated `wiki/concepts/morpheus-agent-architecture.md` with the durable cron model-inheritance rule.
+- Synthèse : crons Hermes alignés sur l’héritage du modèle de base, Codeur.com actif avec une offre API envoyée, LinkedIn/Zernio opérationnel avec anti-doublon, aucun nouveau fait durable AxiaNews/Apex hors héritage global.
+- Updated `wiki/index.md` daily notes and page count.
