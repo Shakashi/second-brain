@@ -96,3 +96,9 @@
 - Updated `wiki/concepts/morpheus-agent-architecture.md` with the durable cron model-inheritance rule.
 - Synthèse : crons Hermes alignés sur l’héritage du modèle de base, Codeur.com actif avec une offre API envoyée, LinkedIn/Zernio opérationnel avec anti-doublon, aucun nouveau fait durable AxiaNews/Apex hors héritage global.
 - Updated `wiki/index.md` daily notes and page count.
+
+## [2026-05-31] create | Daily dream — Morpheus
+- Created `wiki/daily/2026-05-31.md` from recent session summaries and `git log --since='24 hours ago' --stat`.
+- Updated `wiki/concepts/personal-finance-stack.md` with the durable eToro → Firefly line-item integration and liquidation-analysis rule.
+- Synthèse : eToro intégré dans Firefly ligne par ligne avec compte agrégé exclu de la valeur nette ; analyse de liquidation 2,5–3k USD corrigée pour intégrer potentiel/upside en plus des dividendes ; Codeur.com contrôlé sans envoi faute de fit/budget suffisant.
+- Updated `wiki/index.md` daily notes, page count and personal finance description.
